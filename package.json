@@ -1,7 +1,11 @@
 {
   "name": "@plg/npm-workspace",
   "private": true,
+  "repository": "https://github.com/PeterGerrard/npm-workspaces",
   "workspaces": [
     "./packages/*"
-  ]
+  ],
+  "dependencies": {
+    "lerna-changelog": "^1.0.1"
+  }
 }
