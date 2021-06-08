@@ -1,0 +1,16 @@
+{
+  "name": "@plg/docsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "dependencies": {
+    "@plg/components": "*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
