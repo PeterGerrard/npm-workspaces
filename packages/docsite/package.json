@@ -1,6 +1,6 @@
 {
   "name": "@plg/docsite",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -8,7 +8,7 @@
     "run": "node index.js"
   },
   "dependencies": {
-    "@plg/components": "*"
+    "@plg/components": "^0.1.0"
   },
   "keywords": [],
   "author": "",
